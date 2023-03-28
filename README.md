@@ -32,6 +32,7 @@
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<p align="center">
 <a align="center">![mario_walk](https://user-images.githubusercontent.com/82761923/227792602-f6983a96-917d-4908-a36a-87e0f554ab23.gif)</a>
-
+</p>
 
